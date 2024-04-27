@@ -1,4 +1,4 @@
-package com.vtx.keycloak.config.model.utils;
+package com.vtx.keycloak.utils;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

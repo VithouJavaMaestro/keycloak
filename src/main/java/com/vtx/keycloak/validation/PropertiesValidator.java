@@ -1,6 +1,6 @@
-package validation;
+package com.vtx.keycloak.validation;
 
-import com.vtx.keycloak.config.model.model.KeycloakProperties;
+import com.vtx.keycloak.model.KeycloakProperties;
 
 public interface PropertiesValidator {
     void validate(KeycloakProperties properties);

@@ -1,4 +1,4 @@
-package com.vtx.keycloak.config.model.model;
+package com.vtx.keycloak.model;
 
 import lombok.Getter;
 import org.keycloak.OAuth2Constants;
